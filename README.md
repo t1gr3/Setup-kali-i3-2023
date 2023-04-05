@@ -10,19 +10,19 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/t1gr3/setup-kali-i3">
+  <a href="https://github.com/t1gr3/setup-kali-i3-2023">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">SETUP KALI I3</h3>
+  <h3 align="center">SETUP KALI I3 2023</h3>
 
   <p align="center">
     An i3 installation on Kali linux
     <br />
-    <a href="https://github.com/t1gr3/setup-kali-i3"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/t1gr3/setup-kali-i3-2023"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/t1gr3/setup-kali-i3">View Demo</a>
+    <a href="https://github.com/t1gr3/setup-kali-i3-2023">View Demo</a>
   </p>
 </div>
 
@@ -31,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/t1gr3/setup-kali-i3)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/t1gr3/setup-kali-i3-2023)
 
 This project is created to transform the Kali Linux interface using I3 and make my life easier, since I usually just stick to the terminal to do my tasks.
 
@@ -52,7 +52,7 @@ Here you will find the parts and links of this project.
 * [Python](https://www.python.org/)
 * [Linux](https://www.linux.org/)
 * [Rofi](https://github.com/davatorium/rofi)
-* [I3status](https://github.com/Tazeg/i3status)
+* [Bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -70,7 +70,7 @@ _Below you will find the steps required to do the installation within our enviro
 1. Update Kali
 2. Clone the repo
    ```sh
-   git clone https://github.com/t1gr3/setup-kali-i3.git
+   git clone https://github.com/t1gr3/setup-kali-i3-2023.git
    ```
 3. Give execution permissions to Setup
    ```sh
@@ -105,15 +105,15 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@t1gr385](https://twitter.com/t1gr385)
 
-Project Link: [https://github.com/t1gr3/setup-kali-i3](https://github.com/t1gr3/setup-kali-i3)
+Project Link: [https://github.com/t1gr3/setup-kali-i3](https://github.com/t1gr3/setup-kali-i3-2023)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[issues-shield]: https://img.shields.io/github/issues/t1gr3/setup-kali-i3?style=for-the-badge
-[issues-url]: https://github.com/t1gr3/setup-kali-i3/issues
-[license-shield]: https://img.shields.io/github/license/t1gr3/setup-kali-i3?style=for-the-badge
-[license-url]: https://github.com/t1gr3/setup-kali-i3/LICENSE.txt
+[issues-shield]: https://img.shields.io/github/issues/t1gr3/setup-kali-i3-2023?style=for-the-badge
+[issues-url]: https://github.com/t1gr3/setup-kali-i3-2023/issues
+[license-shield]: https://img.shields.io/github/license/t1gr3/setup-kali-i3-2023?style=for-the-badge
+[license-url]: https://github.com/t1gr3/setup-kali-i3-2023/LICENSE.txt
 [product-screenshot]: images/screenshot.png
