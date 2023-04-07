@@ -18,7 +18,7 @@ cp $PWD/src/bumblebee-status/* ~/.config/bumblebee-status
 cp $PWD/src/compton/* ~/.config/compton
 cp $PWD/src/rofi/* ~/.config/rofi
 cp $PWD/src/wallpaper/* ~/.config/wallpaper
-sudo chmod +x ~/.config/bumblebee-status/*
+#sudo chmod +x ~/.config/bumblebee-status/*
 
 sudo apt autoremove -y
 sudo reboot
