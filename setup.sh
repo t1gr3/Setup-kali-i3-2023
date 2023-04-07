@@ -14,7 +14,7 @@ mkdir ~/.config/rofi
 mkdir ~/.config/wallpaper
 cp $PWD/src/i3/* ~/.config/i3
 cp $PWD/src/terminator/* ~/.config/terminator
-cp $PWD/src/bumblebee-status/* ~/.config/bumblebee-status
+cp -p $PWD/src/bumblebee-status/* ~/.config/bumblebee-status
 cp $PWD/src/compton/* ~/.config/compton
 cp $PWD/src/rofi/* ~/.config/rofi
 cp $PWD/src/wallpaper/* ~/.config/wallpaper
