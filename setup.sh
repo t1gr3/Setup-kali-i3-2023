@@ -4,6 +4,7 @@ sudo apt update
 sudo apt install i3 dolphin terminator rofi feh flameshot compton python3-psutil -y
 unzip $PWD/src/fonts.zip
 sudo mv $PWD/*.ttf /usr/share/fonts/truetype/hack
+url = "https://github.com/tobi-wan-kenobi/bumblebee-status.git"
 mkdir ~/.config/i3
 mkdir ~/.config/terminator
 #mkdir ~/.config/bumblebee-status
@@ -12,7 +13,7 @@ mkdir ~/.config/rofi
 mkdir ~/.config/wallpaper
 cp $PWD/src/i3/* ~/.config/i3
 cp $PWD/src/terminator/* ~/.config/terminator
-git clone $HOME/.config/https://github.com/tobi-wan-kenobi/bumblebee-status.git
+git clone -C "$HOME/.config" "url"
 sleep 50
 #cp -p $PWD/bumblebee-status/* $HOME/.config/bumblebee-status
 cp $PWD/src/compton/* ~/.config/compton
