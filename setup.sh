@@ -3,7 +3,7 @@
 sudo apt update
 sudo apt install i3 dolphin terminator rofi feh flameshot compton python3-psutil -y
 git clone git://github.com/tobi-wan-kenobi/bumblebee-status
-cp ~/.config/bumblebee-status/*
+cp bumblebee-status/* ~/.config/bumblebee-status/*
 unzip $PWD/src/fonts.zip
 sudo mv $PWD/*.ttf /usr/share/fonts/truetype/hack
 mkdir ~/.config/i3
