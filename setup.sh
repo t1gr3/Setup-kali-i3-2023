@@ -14,7 +14,7 @@ cp $PWD/src/i3/* ~/.config/i3
 cp $PWD/src/terminator/* ~/.config/terminator
 git clone https://github.com/tobi-wan-kenobi/bumblebee-status.git
 sleep 300
-cp -p $PWD/bumblebee-status/* ~/.config/bumblebee-status
+cp -p $PWD/bumblebee-status/* $HOME/.config/bumblebee-status
 cp $PWD/src/compton/* ~/.config/compton
 cp $PWD/src/rofi/* ~/.config/rofi
 cp $PWD/src/wallpaper/* ~/.config/wallpaper
