@@ -15,6 +15,7 @@ cp $PWD/src/i3/* ~/.config/i3
 cp $PWD/src/terminator/* ~/.config/terminator
 destination = ~/.config
 git clone "$url" "$destination"
+sleep 300
 cp $PWD/src/compton/* ~/.config/compton
 cp $PWD/src/rofi/* ~/.config/rofi
 cp $PWD/src/wallpaper/* ~/.config/wallpaper
