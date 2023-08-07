@@ -103,7 +103,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@t1gr385](https://twitter.com/t1gr385)
+Name - [@t1gr385](https://twitter.com/t1gr385)
 
 Project Link: [https://github.com/t1gr3/setup-kali-i3](https://github.com/t1gr3/setup-kali-i3-2023)
 
